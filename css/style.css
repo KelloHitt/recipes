@@ -29,3 +29,12 @@ h2 {
 ol li {
     padding: 8px;
 }
+
+.home a {
+    border: 3px red solid;
+    border-radius: 2px;
+    padding: 13px;
+    margin: 10px;
+    display: block;
+    text-align: center;
+}
