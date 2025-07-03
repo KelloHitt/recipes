@@ -25,3 +25,7 @@ h2 {
 .ingredients li {
     padding: 4px;
 }
+
+ol li {
+    padding: 8px;
+}
